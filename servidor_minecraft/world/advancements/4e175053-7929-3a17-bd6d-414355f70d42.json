@@ -4684,6 +4684,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-07-17 21:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-17 21:14:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-07-17 20:41:48 +0000"
@@ -4711,6 +4723,12 @@
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2025-07-17 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-17 21:14:14 +0000"
     },
     "done": true
   },
@@ -4810,6 +4828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-17 21:14:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pine_sign": {
     "criteria": {
       "has_pine_planks": "2025-07-17 20:05:19 +0000"
@@ -4831,6 +4855,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-17 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-07-17 21:14:14 +0000"
     },
     "done": true
   },
