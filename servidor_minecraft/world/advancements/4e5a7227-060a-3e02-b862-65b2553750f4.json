@@ -4214,5 +4214,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_sea_lantern": "2025-07-17 20:48:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
