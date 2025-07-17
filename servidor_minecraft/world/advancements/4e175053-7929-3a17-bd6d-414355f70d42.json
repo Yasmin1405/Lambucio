@@ -3694,6 +3694,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2025-07-17 20:05:13 +0000",
+      "maple_log": "2025-07-17 20:41:19 +0000",
       "bamboo_log": "2025-05-11 02:21:56 +0000"
     },
     "done": false
@@ -4671,9 +4672,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_fence_gate": {
     "criteria": {
       "has_pine_planks": "2025-07-17 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-07-17 20:41:19 +0000"
     },
     "done": true
   },
@@ -4707,15 +4738,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 20:41:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-17 20:02:47 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
     "criteria": {
       "has_item": "2025-07-17 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
     },
     "done": true
   },
@@ -4743,9 +4798,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 20:41:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pine_sign": {
     "criteria": {
       "has_pine_planks": "2025-07-17 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-07-17 20:41:48 +0000"
     },
     "done": true
   },
@@ -4770,6 +4843,12 @@
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2025-07-17 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-07-17 20:41:48 +0000"
     },
     "done": true
   },
