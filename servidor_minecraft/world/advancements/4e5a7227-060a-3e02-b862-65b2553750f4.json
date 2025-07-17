@@ -4220,5 +4220,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-17 21:03:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
