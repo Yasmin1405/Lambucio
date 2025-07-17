@@ -2672,6 +2672,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:49 +0000",
+      "shrubland": "2025-07-17 21:43:06 +0000",
       "dry_bushland": "2025-05-11 02:24:57 +0000",
       "pine_taiga": "2025-05-18 02:55:31 +0000",
       "autumnal_maple_forest": "2025-07-17 20:02:05 +0000",
@@ -2702,6 +2703,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:49 +0000",
+      "shrubland": "2025-07-17 21:43:06 +0000",
       "dry_bushland": "2025-05-11 02:24:57 +0000",
       "pine_taiga": "2025-05-18 02:55:31 +0000",
       "autumnal_maple_forest": "2025-07-17 20:02:05 +0000",
@@ -4219,6 +4221,18 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-07-17 21:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-07-17 21:42:01 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:recipes/tools/barbed_hook": {
     "criteria": {
       "has_iron_nugget": "2025-07-17 21:23:37 +0000"
@@ -4228,6 +4242,18 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-17 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-17 21:44:02 +0000"
     },
     "done": true
   },
@@ -4279,15 +4305,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-17 21:44:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-07-17 21:33:51 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-17 21:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-17 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-07-17 21:44:02 +0000"
     },
     "done": true
   },
@@ -4306,6 +4350,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-17 21:23:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-17 21:44:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-17 21:44:02 +0000"
     },
     "done": true
   },
@@ -4330,6 +4386,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-17 21:44:02 +0000"
     },
     "done": true
   },
@@ -4372,6 +4434,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-07-17 21:44:02 +0000"
     },
     "done": true
   },

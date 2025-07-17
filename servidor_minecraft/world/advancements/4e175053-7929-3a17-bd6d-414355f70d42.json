@@ -3317,6 +3317,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:51 +0000",
+      "shrubland": "2025-07-17 21:43:09 +0000",
       "dry_bushland": "2025-05-11 02:25:00 +0000",
       "pine_taiga": "2025-05-18 02:55:33 +0000",
       "autumnal_maple_forest": "2025-07-17 20:01:59 +0000",
@@ -3347,6 +3348,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:51 +0000",
+      "shrubland": "2025-07-17 21:43:09 +0000",
       "dry_bushland": "2025-05-11 02:25:00 +0000",
       "pine_taiga": "2025-05-18 02:55:33 +0000",
       "autumnal_maple_forest": "2025-07-17 20:01:59 +0000",
@@ -4685,9 +4687,21 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-07-17 21:42:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_fence_gate": {
     "criteria": {
       "has_pine_planks": "2025-07-17 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-07-17 21:42:05 +0000"
     },
     "done": true
   },
@@ -4935,6 +4949,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-07-17 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-17 21:39:19 +0000"
     },
     "done": true
   },
