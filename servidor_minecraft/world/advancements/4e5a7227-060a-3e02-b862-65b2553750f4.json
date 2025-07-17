@@ -2830,8 +2830,10 @@
       "minecraft:skeleton": "2025-05-11 02:40:28 +0000",
       "minecraft:vindicator": "2025-07-17 21:18:34 +0000",
       "minecraft:spider": "2025-05-11 03:22:07 +0000",
+      "minecraft:evoker": "2025-07-17 21:33:41 +0000",
       "minecraft:husk": "2025-05-11 04:34:07 +0000",
       "minecraft:cave_spider": "2025-07-17 20:31:48 +0000",
+      "minecraft:vex": "2025-07-17 21:33:41 +0000",
       "minecraft:zombie": "2025-05-11 02:23:58 +0000"
     },
     "done": false
@@ -3822,6 +3824,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-07-17 21:33:41 +0000",
       "killed_illusioner": "2025-05-18 02:56:04 +0000"
     },
     "done": false
@@ -4222,6 +4225,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:recipes/tools/magnetic_hook": {
     "criteria": {
       "has_iron_nugget": "2025-07-17 21:23:37 +0000"
@@ -4231,6 +4246,18 @@
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_sea_lantern": "2025-07-17 20:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
     },
     "done": true
   },
@@ -4252,9 +4279,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-17 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
     },
     "done": true
   },
@@ -4270,9 +4309,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-17 21:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
     },
     "done": true
   },
@@ -4282,9 +4357,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-07-17 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 21:33:51 +0000"
     },
     "done": true
   },
