@@ -2675,6 +2675,7 @@
       "dry_bushland": "2025-05-11 02:24:57 +0000",
       "pine_taiga": "2025-05-18 02:55:31 +0000",
       "autumnal_maple_forest": "2025-07-17 20:02:05 +0000",
+      "muddy_river": "2025-07-17 20:32:21 +0000",
       "rocky_reef": "2025-05-11 04:23:05 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:46 +0000",
@@ -2704,6 +2705,7 @@
       "dry_bushland": "2025-05-11 02:24:57 +0000",
       "pine_taiga": "2025-05-18 02:55:31 +0000",
       "autumnal_maple_forest": "2025-07-17 20:02:05 +0000",
+      "muddy_river": "2025-07-17 20:32:21 +0000",
       "rocky_reef": "2025-05-11 04:23:05 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:46 +0000",
@@ -2827,6 +2829,7 @@
       "minecraft:skeleton": "2025-05-11 02:40:28 +0000",
       "minecraft:spider": "2025-05-11 03:22:07 +0000",
       "minecraft:husk": "2025-05-11 04:34:07 +0000",
+      "minecraft:cave_spider": "2025-07-17 20:31:48 +0000",
       "minecraft:zombie": "2025-05-11 02:23:58 +0000"
     },
     "done": false
@@ -4154,6 +4157,12 @@
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-07-17 20:20:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_cattail": "2025-07-17 20:32:31 +0000"
     },
     "done": true
   },
