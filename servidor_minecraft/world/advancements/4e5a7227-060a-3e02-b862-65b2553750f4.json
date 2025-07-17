@@ -200,6 +200,7 @@
       "minecraft:deep_ocean": "2025-05-18 03:48:03 +0000",
       "minecraft:eroded_badlands": "2025-05-11 04:19:51 +0000",
       "minecraft:frozen_river": "2025-05-18 03:57:14 +0000",
+      "minecraft:birch_forest": "2025-07-17 21:48:33 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 03:46:55 +0000",
       "minecraft:wooded_badlands": "2025-05-11 02:42:20 +0000",
       "minecraft:badlands": "2025-05-11 02:25:35 +0000",
@@ -4245,6 +4246,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/flowering_azalea_leaf": {
+    "criteria": {
+      "has_leaves": "2025-07-17 21:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-17 21:44:02 +0000"
@@ -4260,6 +4267,12 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-07-17 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-07-17 21:50:57 +0000"
     },
     "done": true
   },
