@@ -5289,3 +5289,34 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 25 more
 [21:58:16] [Server thread/INFO]: Yasame14 was slain by Fallen Knight
 [21:58:39] [Server thread/INFO]: [Not Secure] <Celxex> valeee
+[21:59:25] [Server thread/INFO]: [Not Secure] <Celxex> valeee
+[21:59:26] [Server thread/INFO]: Yasame14 died
+[21:59:30] [Server thread/INFO]: Yasame14 lost connection: Disconnected
+[21:59:30] [Server thread/INFO]: Yasame14 left the game
+[22:00:02] [Server thread/INFO]: Celxex lost connection: Disconnected
+[22:00:02] [Server thread/INFO]: Celxex left the game
+[22:00:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:00:26] [Server thread/INFO]: STOP<--[HERE]
+[22:00:28] [Server thread/INFO]: Stopping the server
+[22:00:28] [Server thread/INFO]: Stopping server
+[22:00:28] [Server thread/INFO]: Saving players
+[22:00:28] [Server thread/INFO]: Saving worlds
+[22:00:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecraft:overworld
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecells:prison
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecells:promenade
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecells:ramparts
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecells:insufferable_crypt
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/graveyard:past
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecells:black_bridge
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecraft:the_nether
+[22:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Celysm]'/minecraft:the_end
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
