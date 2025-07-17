@@ -1421,7 +1421,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-05-07 03:46:02 +0000"
+      "apple": "2025-05-07 03:46:02 +0000",
+      "golden_apple": "2025-07-17 21:24:17 +0000"
     },
     "done": false
   },
@@ -4794,7 +4795,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "swamp_village": "2025-07-17 19:54:24 +0000"
+      "swamp_village": "2025-07-17 19:54:24 +0000",
+      "illager_camp": "2025-07-17 21:18:41 +0000"
     },
     "done": false
   },
