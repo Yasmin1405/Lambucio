@@ -28,15 +28,81 @@
   },
   "player_scaling_settings": {},
   "scaling_settings": {
-    "motion": {},
-    "mob_visibility": {},
-    "defense": {},
-    "attack_knockback": {},
-    "knockback_resist": {},
-    "reach": {},
-    "health": {},
-    "attack_speed": {},
-    "attack_dmg": {}
+    "motion": {
+      "enabled": true
+    },
+    "mob_visibility": {
+      "enabled": true
+    },
+    "defense": {
+      "enabled": true
+    },
+    "attack_knockback": {
+      "enabled": true
+    },
+    "knockback_resist": {
+      "enabled": true
+    },
+    "reach": {
+      "enabled": true
+    },
+    "health": {
+      "enabled": true
+    },
+    "attack_speed": {
+      "enabled": true
+    },
+    "attack_dmg": {
+      "enabled": true
+    },
+    "entity": {
+      "enabled": true
+    },
+    "eye_height": {
+      "enabled": true
+    },
+    "hitbox_width": {
+      "enabled": true
+    },
+    "hitbox_height": {
+      "enabled": true
+    },
+    "third_person": {
+      "enabled": true
+    },
+    "view_bobbing": {
+      "enabled": true
+    },
+    "step_height": {
+      "enabled": true
+    },
+    "flight_speed": {
+      "enabled": true
+    },
+    "fall_damage": {
+      "enabled": true
+    },
+    "mining_speed": {
+      "enabled": true
+    },
+    "width": {
+      "enabled": true
+    },
+    "height": {
+      "enabled": true
+    },
+    "jump_height": {
+      "enabled": true
+    },
+    "projectile_dmg": {
+      "enabled": true
+    },
+    "explosion_dmg": {
+      "enabled": true
+    },
+    "safe_fall_distance": {
+      "enabled": true
+    }
   },
   "skins": {}
 }
