@@ -200,10 +200,12 @@
       "minecraft:deep_ocean": "2025-05-18 03:48:01 +0000",
       "minecraft:eroded_badlands": "2025-05-11 04:19:52 +0000",
       "minecraft:frozen_river": "2025-05-18 03:57:14 +0000",
+      "minecraft:cherry_grove": "2025-08-07 21:06:06 +0000",
       "minecraft:birch_forest": "2025-07-17 21:48:39 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 03:46:57 +0000",
       "minecraft:wooded_badlands": "2025-05-11 02:42:20 +0000",
       "minecraft:badlands": "2025-05-11 02:25:07 +0000",
+      "minecraft:savanna_plateau": "2025-08-07 21:07:47 +0000",
       "minecraft:beach": "2025-05-07 03:17:11 +0000",
       "minecraft:sparse_jungle": "2025-05-07 03:44:52 +0000",
       "minecraft:river": "2025-05-07 03:36:58 +0000",
@@ -2521,6 +2523,7 @@
       "acacia_house_medium_3": "2025-05-11 04:29:04 +0000",
       "acacia_house_small_1": "2025-05-11 03:04:03 +0000",
       "jungle_house_small_1": "2025-05-07 05:07:29 +0000",
+      "oak_house_medium_2": "2025-08-07 21:03:55 +0000",
       "red_sand_house_small_1": "2025-05-11 02:51:04 +0000"
     },
     "done": false
@@ -5082,6 +5085,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-17 21:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-07 21:09:08 +0000"
     },
     "done": true
   },
