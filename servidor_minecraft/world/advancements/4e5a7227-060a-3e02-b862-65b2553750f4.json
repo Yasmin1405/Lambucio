@@ -4569,6 +4569,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-07 21:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-08-07 21:10:10 +0000"
