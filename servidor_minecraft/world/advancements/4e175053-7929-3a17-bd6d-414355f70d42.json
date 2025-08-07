@@ -5088,9 +5088,141 @@
     },
     "done": true
   },
+  "too_many_bows:shulker_shell": {
+    "criteria": {
+      "get_shulker_shell": "2025-08-07 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-07 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-08-07 21:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/barley_ball": {
+    "criteria": {
+      "has_barley": "2025-08-07 21:11:19 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-08-07 21:14:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement": "2025-08-07 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2025-08-07 21:14:51 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "cyroheart_bow": "2025-08-07 21:14:51 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement": "2025-08-07 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-07 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-07 21:12:17 +0000"
     },
     "done": true
   },
